@@ -58,7 +58,7 @@
 <p>Yang kita akan coba yaitu dengan <a href="overthewire.org" target="_blank">overthewire.org</p></a>
 
 # Langkah-Langkah OverTheWire
-<p>1. Remote server dari overthewire terlebih dahulu dengan ``ssh``.</p>
+<p>1. Remote server dari overthewire terlebih dahulu dengan <code>ssh</code>.</p>
 
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
