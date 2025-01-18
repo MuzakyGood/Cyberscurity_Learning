@@ -4,3 +4,9 @@
 <p>
     CIA Triangle adalah model dasar dalam keamanan informasi yang memastikan perlindungan data.
 </p>
+<h3>Model ini memiliki tiga pilar utama, yaitu:</h3>
+<ul>
+    <li>Confidentiality (Kerahasiaan), yang memastikan data hanya dapat diakses oleh pihak yang berwenang.</li>
+    <li>Integrity (Integritas), yang menjaga agar data tetap akurat dan tidak diubah tanpa izin.</li>
+    <li>Availability (Ketersediaan), yang menjamin data atau sistem dapat diakses kapan pun dibutuhkan.</li>
+</ul>
