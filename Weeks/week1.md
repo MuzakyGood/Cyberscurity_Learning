@@ -89,6 +89,17 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 | cat | Menampilkan isi file ke terminal. |
 | head, tail | Menampilkan baris awal/akhir dari file |
 
+<h4>Command Linux Tambahan</h4>
+
+| **Command** | **Deskripsi** |
+| :--- |:---|
+| wget | untuk mengunduh file dari internet melalui protokol HTTP, HTTPS, dan FTP |
+| curl (client URL) | mentransfer data dari atau ke server menggunakan berbagai protokol seperti HTTP, HTTPS, FTP, SFTP, dll. |
+| file | menentukan tipe file berdasarkan isi, bukan hanya ekstensinya. |
+| base64 | Mengkodekan atau mengkodekan data dalam format base64, sering digunakan untuk mengonversi data biner menjadi teks ASCII. |
+| grep | mencari pola teks tertentu dalam file atau output perintah. |
+| ind | mencari file atau direktori di dalam sistem file berdasarkan nama, ukuran, waktu modifikasi, dan kriteria lainnya |
+
 <h4>Special Characters</h4>
 
 | **Command** | **Deskripsi** |
@@ -101,16 +112,38 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 | \ (backslash) | Melanjutkan Perintah ke Baris Berikutnya. |
 | & (Background Process) | Menjalankan perintah di background |
 
-## Contoh Penggunaan
+## Contoh Penggunaan Command
+
+<h4>Cat Command</h4>
 
 ```bash
 cat file1.txt ; cat file2.txt ; cat file3.txt
 cat file1.txt && cat file2.txt && cat file3.txt
 ```
 
-Output :
+<h4>Mengarahkan output dari perintah ke file</h4>
+
 ```bash
-Baris 1
-Baris 2
-Baris 3
+echo “hello world” > file.txt
+cat < file.txt
+
+echo “baris baru” >> file.txt
+cat file.txt
+```
+
+<h4>Input Multibaris (Here Document)</h4>
+
+```bash
+cat > file.txt << EOF
+baris 1
+baris 2
+EOF
+```
+
+<h4>Melanjutkan Perintah ke Baris Berikutnya</h4>
+
+```bash
+cat file1.txt \
+file2.txt file3.txt \
+> gabungan.txt
 ```
