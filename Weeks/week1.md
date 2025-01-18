@@ -82,3 +82,9 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 | mkdir | Membuat direktori baru. |
 | rmdir | Menghapus direktori kosong. |
 | touch | Membuat file baru kosong. |
+| nano / vi | membuka dan mengedit file teks di terminal. |
+| rm | Menghapus file atau direktori. |
+| cp | Menyalin file atau direktori. |
+| mv | Memindahkan atau mengganti nama file/direktori. |
+| cat | Menampilkan isi file ke terminal. |
+| head, tail | Menampilkan baris awal/akhir dari file |
