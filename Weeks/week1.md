@@ -73,3 +73,11 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 
 ## Command Linux
 <h4>File Management</h4>
+| *Command* | *Deskripsi* |
+| --- |----:|
+| pwd | Menampilkan working directory saat ini. |
+| ls | Menampilkan isi dari direktori saat ini. |
+| cd | Berpindah ke direktori lain. |
+| mkdir | Membuat direktori baru. |
+| rmdir | Menghapus direktori kosong. |
+| touch | Membuat file baru kosong. |
