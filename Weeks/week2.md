@@ -76,7 +76,7 @@ bandit1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
 <p>3. Selalu perhatikan instruksi yang di berikan di contoh soal.</p>
 <p>4. Selamat Mencoba.</p>
-
+<br>
 <p>🔒Next Week Coming Soon🔒</p>
 
 ## 😄Terima Kasih😄
