@@ -40,7 +40,7 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 </p>
 
 ## Bidang-bidang di Cyber Security
-<img src="https://www.linknet.id/files/photos/shares/article/cyber%20security.jpg" height="180" width="250" alt="CIA Triangle"></img>
+<img src="https://www.linknet.id/files/photos/shares/article/cyber%20security.jpg" height="180" width="250" alt="Cyber Scurity"></img>
 <ul>
     <li>Application Security</li>
     <li>Web Application Security</li>
