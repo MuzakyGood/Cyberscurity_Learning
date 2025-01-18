@@ -74,7 +74,7 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 ## Command Linux
 <h4>File Management</h4>
 
-| *Command* | *Deskripsi* |
+| **Command** | **Deskripsi** |
 | --- |:---:|
 | pwd | Menampilkan working directory saat ini. |
 | ls | Menampilkan isi dari direktori saat ini. |
