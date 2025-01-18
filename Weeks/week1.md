@@ -19,10 +19,7 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 </p>
 
 ## C. Jenis-jenis Hacker
-<img src="https://m.media-amazon.com/images/I/61+mF6xaj+L._AC_UY1100_.jpg" height="180" width="250" alt="White Hat">
-<img src="https://m.media-amazon.com/images/I/51ud9APHxnL._AC_UY1000_.jpg" height="180" width="250" alt="Black Hat">
-<img src="https://m.media-amazon.com/images/I/619QT9rWdfL._AC_UY1000_.jpg" height="180" width="250" alt="Grey Hat">
-</img>
+<img src="https://m.media-amazon.com/images/I/61+mF6xaj+L._AC_UY1100_.jpg" height="180" width="250" alt="White Hat"><img src="https://m.media-amazon.com/images/I/51ud9APHxnL._AC_UY1000_.jpg" height="180" width="250" alt="Black Hat"><img src="https://m.media-amazon.com/images/I/619QT9rWdfL._AC_UY1000_.jpg" height="180" width="250" alt="Grey Hat"></img>
 <h4>Terdapat 3 jenis: </h4>
 <ul>
     <li>White Hat (Baik)</li>
