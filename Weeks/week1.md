@@ -101,3 +101,16 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 | \ (backslash) | Melanjutkan Perintah ke Baris Berikutnya. |
 | & (Background Process) | Menjalankan perintah di background |
 
+## Contoh Penggunaan
+
+```bash
+cat file1.txt ; cat file2.txt ; cat file3.txt
+cat file1.txt && cat file2.txt && cat file3.txt
+```
+
+Output :
+```bash
+Baris 1
+Baris 2
+Baris 3
+```
