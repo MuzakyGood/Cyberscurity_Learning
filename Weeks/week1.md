@@ -63,10 +63,13 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
     proses mengidentifikasi potensi kerentanan keamanan pada perangkat lunak, sistem, dan infrastruktur TI organisasi dengan mensimulasikan serangan siber di dunia nyata.
 </p>
 
-<img src="https://images.javatpoint.com/tutorial/software-testing/images/greybox-testing.png" height="180" width="450" alt="Pentester"></img>
 <h4>Macam-Macam Pentester</h4>
+<img src="https://images.javatpoint.com/tutorial/software-testing/images/greybox-testing.png" height="180" width="450" alt="Pentester"></img>
 <ol>
     <li>White Box, melakukan pengujian diberikan informasi dan wewenang yang komprehensif tentang sistem.</li>
     <li>Black Box, melakukan pengujian tanpa pengetahuan sebelumnya tentang sistem.</li>
     <li>Grey Box, melakukan pengujian hanya diberikan sebagian informasi dan otoritas tentang sistem.</li>
 </ol>
+
+## Command Linux
+<h4>File Management</h4>
