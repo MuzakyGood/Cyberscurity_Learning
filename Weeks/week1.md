@@ -75,7 +75,7 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 <h4>File Management</h4>
 
 | **Command** | **Deskripsi** |
-| --- |:---:|
+| --- |:---|
 | pwd | Menampilkan working directory saat ini. |
 | ls | Menampilkan isi dari direktori saat ini. |
 | cd | Berpindah ke direktori lain. |
@@ -92,7 +92,7 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 <h4>Special Characters</h4>
 
 | **Command** | **Deskripsi** |
-| --- |:---:|
+| --- |:---|
 | ; (Shell Command Separator) | Menjalankan beberapa perintah secara berurutan (terlepas sukses/gagal) |
 | && (Conditional AND) | Menjalankan perintah kedua jika perintah pertama sukses. |
 | < (Input Redirection) | Mengambil input dari file untuk digunakan oleh perintah. |
