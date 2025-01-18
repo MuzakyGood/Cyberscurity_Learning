@@ -1,4 +1,10 @@
 # Week 1 
+
+```quote
+"To be a hacker is to bring the impossible within reach through unexpected behaviors."
+- Anonymous -
+```
+
 ## A. Prinsi Cyber Scurity
 <img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/66a372b4a3d814c4fc284041_63fdd44daa2d3e1f527b40e7_CIA%2520Triad.jpeg" height="180" width="250" alt="CIA Triangle"></img>
 <p>
@@ -26,3 +32,9 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
     <li>Black Hat (Jahat)</li>
     <li>Gray Hat (Random)</li>
 </ul>
+
+## D. Ethical Hacking
+<p>
+    Perannya sebagai peran menguji dan memperkuat keamanan sistem komputer, jaringan, dan data.<br>
+    Tujuanya adalah menemukan kelemahan yang dapat dieksploitasi oleh penyerang dan membuat rekomendasi untuk memperbaikinya.
+</p>
