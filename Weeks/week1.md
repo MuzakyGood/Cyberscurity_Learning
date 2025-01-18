@@ -206,7 +206,7 @@ wc example.txt
 sort example.txt
 ```
 
-<h4>Menampilkan Baris Unik dalam File</h4>\
+<h4>Menampilkan Baris Unik dalam File</h4>
 
 ```bash
 uniq uniq_example.txt
