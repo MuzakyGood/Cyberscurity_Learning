@@ -58,23 +58,22 @@
 <p>Yang kita akan coba yaitu dengan <a href="overthewire.org" target="_blank">overthewire.org</p></a>
 
 # Langkah-Langkah OverTheWire
+<p>1. Remote server dari overthewire terlebih dahulu dengan ``ssh``.</p>
 
-<h4>Langkah-Langkah sebagai berikut: </h4>
-<ol>
-    <li>Remote server dari overthewire terlebih dahulu dengan ``ssh``.</li>
-    ```bash
-    ssh bandit0@bandit.labs.overthewire.org -p 2220
-    ```
-    <li>Pastikan untuk selalu membuat catatan proggres password.</li>
-    ```bash
-    Password Bandit
-    bandit0: bandit0
-    bandit1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-    ```
-    <li>Selalu perhatikan instruksi yang di berikan di contoh soal.</li>
-    <li>Selamat Mencoba.</li>
-</ol>
+```bash
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
 
-<p>🔒Next Week Comming Soon🔒</p>
+<p>2. Pastikan untuk selalu membuat catatan notepad proggres password.</p>
+
+```bash
+## Password Bandit
+bandit0: bandit0
+bandit1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+```
+<p>3. Selalu perhatikan instruksi yang di berikan di contoh soal.</p>
+<p>4. Selamat Mencoba.</p>
+
+<p>🔒Next Week Coming Soon🔒</p>
 
 ## 😄Terima Kasih😄
