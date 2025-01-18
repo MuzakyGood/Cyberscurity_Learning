@@ -88,3 +88,16 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 | mv | Memindahkan atau mengganti nama file/direktori. |
 | cat | Menampilkan isi file ke terminal. |
 | head, tail | Menampilkan baris awal/akhir dari file |
+
+<h4>Special Characters</h4>
+
+| **Command** | **Deskripsi** |
+| --- |:---:|
+| ; (Shell Command Separator) | Menjalankan beberapa perintah secara berurutan (terlepas sukses/gagal) |
+| && (Conditional AND) | Menjalankan perintah kedua jika perintah pertama sukses. |
+| < (Input Redirection) | Mengambil input dari file untuk digunakan oleh perintah. |
+| > (Output Redirection) | Mengarahkan output dari perintah ke file (menimpa file jika sudah ada). |
+| | (Pipe) | Mengalirkan output dari satu perintah ke input perintah berikutnya. |
+| \ (backslash) | Melanjutkan Perintah ke Baris Berikutnya. |
+| & (Background Process) | Menjalankan perintah di background |
+
