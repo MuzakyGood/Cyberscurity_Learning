@@ -50,8 +50,8 @@
 </ul>
 
 # Tempat CyberEncript
-<img src="https://www.gchq.gov.uk/images/CyberChef768x512.jpg" height="180" width="250" alt="CyberChef"></img>
-<a href="cyberchef.io" target="_blank">cyberchef.io</a>
+<img src="https://www.gchq.gov.uk/images/CyberChef768x512.jpg" height="180" width="250" alt="CyberChef"><
+<a href="cyberchef.io" target="_blank"></a></img>
 
 # OverTheWire 
 <img src="https://miro.medium.com/v2/1*VLXFzVtGx16B1iH81bcTPw.png" height="180" width="250" alt="OverTheWire"></img>
@@ -61,19 +61,20 @@
 
 <h4>Langkah-Langkah sebagai berikut: </h4>
 <ol>
-    <li>Remote server dari overthewire terlebih dahulu dengan ``ssh``.
+    <li>Remote server dari overthewire terlebih dahulu dengan ``ssh``.</li>
     ```bash
     ssh bandit0@bandit.labs.overthewire.org -p 2220
-    ```</li>
-    <li>Pastikan untuk selalu membuat catatan proggres password.
+    ```
+    <li>Pastikan untuk selalu membuat catatan proggres password.</li>
     ```bash
     Password Bandit
     bandit0: bandit0
     bandit1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-    ```</li>
+    ```
     <li>Selalu perhatikan instruksi yang di berikan di contoh soal.</li>
     <li>Selamat Mencoba.</li>
 </ol>
 
 <p>🔒Next Week Comming Soon🔒</p>
+
 ## 😄Terima Kasih😄
