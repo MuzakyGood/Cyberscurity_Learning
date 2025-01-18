@@ -10,3 +10,10 @@
     <li>Integrity (Integritas), yang menjaga agar data tetap akurat dan tidak diubah tanpa izin.</li>
     <li>Availability (Ketersediaan), yang menjamin data atau sistem dapat diakses kapan pun dibutuhkan.</li>
 </ul>
+
+## B.Hacker
+<img src="https://blob.cloudcomputing.id/images/9bdd42f5-25f6-478c-89ea-7390ef5b9b07/ilustrasi-hacker-2-l-min.jpg" height="180" width="250" alt="Hacker"></img>
+<p>
+seorang ahli komputer yang terampil dengan pengetahuan<br>
+teknis yang mendalam tentang sistem dan jaringan komputer.
+</p>
