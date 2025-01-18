@@ -56,3 +56,17 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
     <li>Blue Team, Bertugas memperkuat dan memelihara pertahanan keamanan siber organisasi</li>
     <li>Purple Team, Bertugas memaksimalkan kemampuan keamanan siber organisasi dengan menggabungkan upaya tim Merah dan Biru</li>
 </ol>
+
+## Penetration Testing (Pentest)
+<img src="https://computerone.com.au/wp-content/uploads/2020/02/Penetration-Testing-Main.jpg" height="180" width="250" alt="Pentester"></img>
+<p>
+    proses mengidentifikasi potensi kerentanan keamanan pada perangkat lunak, sistem, dan infrastruktur TI organisasi dengan mensimulasikan serangan siber di dunia nyata.
+</p>
+
+<img src="https://images.javatpoint.com/tutorial/software-testing/images/greybox-testing.png" height="180" width="450" alt="Pentester"></img>
+<h4>Macam-Macam Pentester</h4>
+<ol>
+    <li>White Box, melakukan pengujian diberikan informasi dan wewenang yang komprehensif tentang sistem.</li>
+    <li>Black Box, melakukan pengujian tanpa pengetahuan sebelumnya tentang sistem.</li>
+    <li>Grey Box, melakukan pengujian hanya diberikan sebagian informasi dan otoritas tentang sistem.</li>
+</ol>
