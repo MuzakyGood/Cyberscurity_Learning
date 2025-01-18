@@ -1,7 +1,9 @@
 ## Week 2
 
 ```quote
-"Capture The Flag (CTF) is not just a competition; it's a playground for learning and honing your cybersecurity skills in a fun and engaging way."
+"Capture The Flag (CTF) is not just a competition; 
+it's a playground for learning and honing your cybersecurity 
+skills in a fun and engaging way."
 - Anonymous -
 ```
 
@@ -50,8 +52,9 @@
 </ul>
 
 # Tempat CyberEncript
-<img src="https://www.gchq.gov.uk/images/CyberChef768x512.jpg" height="180" width="250" alt="CyberChef"><
+<img src="https://www.gchq.gov.uk/images/CyberChef768x512.jpg" height="180" width="250" alt="CyberChef">
 <a href="cyberchef.io" target="_blank"></a></img>
+<a href="cyberchef.io" target="_blank"><p>CyberChef.io</a> adalah website yang berguna untuk meng-kombinasikan berbagai enkripsi kode.</p>
 
 # OverTheWire 
 <img src="https://miro.medium.com/v2/1*VLXFzVtGx16B1iH81bcTPw.png" height="180" width="250" alt="OverTheWire"></img>
