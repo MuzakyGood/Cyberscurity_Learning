@@ -198,3 +198,24 @@ curl localhost:8080 | grep data
 ```bash
 find / -type f -name nginx 2>/dev/null
 ```
+
+<h4>Menghitung dan Mengurutkan Data</h4>
+
+```bash
+wc example.txt
+sort example.txt
+```
+
+<h4>Menampilkan Baris Unik dalam File</h4>\
+
+```bash
+uniq uniq_example.txt
+```
+
+<h4>Mengubah Teks Menjadi Huruf Kapital</h4>
+
+```bash
+cat text_example.txt | tr 'a-z' 'A-Z'
+```
+
+## 😄Terima Kasih😄
