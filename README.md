@@ -7,4 +7,4 @@
 </p>
 
 ## Weeks Learn
-[Weeks 1](./Weeks/week1.md)
+1. [Weeks 1](./Weeks/week1.md)
