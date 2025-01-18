@@ -1,7 +1,7 @@
 ## Cyberscurity Learn
 <p><i>Zach Noland - SMK Harapan Bangsa - 2025</i></p>
 <p>
-    <b>Deskripsi:</b>
+    <b>Deskripsi:</b><br>
     Blog ini di tulis oleh <b>Zach Noland</b>. Ini adalah repositori 
     <br>yang berisi blog saya selama saya belajar Cyberscurity.<br>
     Saya belajar Cyberscurity pada Ekstrakurikuler di IT Club SMK Harapan Bangsa.<br>
