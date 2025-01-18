@@ -89,17 +89,6 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 | cat | Menampilkan isi file ke terminal. |
 | head, tail | Menampilkan baris awal/akhir dari file |
 
-<h4>Command Linux Tambahan</h4>
-
-| **Command** | **Deskripsi** |
-| :--- |:---|
-| wget | untuk mengunduh file dari internet melalui protokol HTTP, HTTPS, dan FTP |
-| curl (client URL) | mentransfer data dari atau ke server menggunakan berbagai protokol seperti HTTP, HTTPS, FTP, SFTP, dll. |
-| file | menentukan tipe file berdasarkan isi, bukan hanya ekstensinya. |
-| base64 | Mengkodekan atau mengkodekan data dalam format base64, sering digunakan untuk mengonversi data biner menjadi teks ASCII. |
-| grep | mencari pola teks tertentu dalam file atau output perintah. |
-| ind | mencari file atau direktori di dalam sistem file berdasarkan nama, ukuran, waktu modifikasi, dan kriteria lainnya |
-
 <h4>Special Characters</h4>
 
 | **Command** | **Deskripsi** |
@@ -111,6 +100,27 @@ teknis yang mendalam tentang sistem dan jaringan komputer.
 | (Pipe) | Mengalirkan output dari satu perintah ke input perintah berikutnya. |
 | \ (backslash) | Melanjutkan Perintah ke Baris Berikutnya. |
 | & (Background Process) | Menjalankan perintah di background |
+
+<h4>Command Linux Tambahan 1</h4>
+
+| **Command** | **Deskripsi** |
+| :--- |:---|
+| wget | untuk mengunduh file dari internet melalui protokol HTTP, HTTPS, dan FTP |
+| curl (client URL) | mentransfer data dari atau ke server menggunakan berbagai protokol seperti HTTP, HTTPS, FTP, SFTP, dll. |
+| file | menentukan tipe file berdasarkan isi, bukan hanya ekstensinya. |
+| base64 | Mengkodekan atau mengkodekan data dalam format base64, sering digunakan untuk mengonversi data biner menjadi teks ASCII. |
+| grep | mencari pola teks tertentu dalam file atau output perintah. |
+| ind | mencari file atau direktori di dalam sistem file berdasarkan nama, ukuran, waktu modifikasi, dan kriteria lainnya |
+
+<h4>Command Linux Tambahan 2</h4>
+
+| **Command** | **Deskripsi** |
+| --- |:---|
+| wc | Menghitung jumlah baris, kata, atau karakter dalam file. |
+| uniq | Menghapus baris duplikat dari output teks yang berurutan. |
+| sort | Mengurutkan baris dalam file atau output teks. |
+| tr | Mengganti atau menghapus karakter dalam teks. |
+| sed | Mengedit teks secara langsung di dalam file atau output (misalnya, mengganti kata). |
 
 ## Contoh Penggunaan Command
 
@@ -146,4 +156,45 @@ EOF
 cat file1.txt \
 file2.txt file3.txt \
 > gabungan.txt
+```
+
+<h4>wget dan curl</h4>
+
+```bash
+wget <url_yang_ingin_di_download>
+wget http://zachnoland.my.id/project/JPCSIM/img/6.png
+
+curl http://localhost:80
+curl http://zachnoland.my.id/project/JPCSIM/img/6.png -o gambar.png
+```
+
+<h4>Mengenali Tipe File di Linux</h4>
+
+```bash
+file foto.jpg
+file data.zip
+file document.pdf
+```
+
+<h4>base64</h4>
+
+```bash
+echo "pass123" | base64
+cGFzczEyMwo=
+
+echo "cGFzczEyMwo=" | base64 -d
+pass123
+```
+
+<h4>Mencari dan Menyaring Teks</h4>
+
+```bash
+cat example.txt | grep Hello
+curl localhost:8080 | grep data
+```
+
+<h4>Mencari File</h4>
+
+```bash
+find / -type f -name nginx 2>/dev/null
 ```
