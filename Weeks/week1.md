@@ -218,4 +218,5 @@ uniq uniq_example.txt
 cat text_example.txt | tr 'a-z' 'A-Z'
 ```
 
+[Next Week 2](week2.md)
 ## 😄Terima Kasih😄
