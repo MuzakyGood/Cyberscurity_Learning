@@ -9,8 +9,12 @@
 </p>
 
 ## Weeks Learn
-1. [Weeks 1](./Weeks/week1.md)
-2. [Weeks 2](./Weeks/week2.md)
+#Season 1
+1. [Weeks 1](./Season1//Weeks/week1.md)
+2. [Weeks 2](./Season1//Weeks/week2.md)
+
+#Season 2
+1. [Weeks 1](./Season2/week1.md)
 
 <p>🔒Next Week Coming Soon🔒</p>
 
