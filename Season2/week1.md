@@ -1,4 +1,4 @@
-## Exploit Introduction
+# A. Exploit Introduction
 
 <p align="center">
   <img src="image.png" alt="Logos Exploiter" width="200" height="200">
@@ -131,4 +131,56 @@ letmein
 ```code
 qwerty098
 ```
+---
+
+# B. Hardening Whitelisting Selinux (Linux machines)
+
+<p align="center">
+  <img src="image-7.png" alt="Pico CTF" width="300" height="160">
+</p>
+
+Pada kesempatan kali ini saya akan menggunakan Linux CentOS
+
+---
+
+## Konfigurasi
+
+1. Install Web Server httpd
+
+```code
+yum install -y httpd
+```
+
+2. Tampahkan port 80 tcp
+```code
+firewall-cmd --permanent --add-port=80/tcp
+```
+
+3. Buat direktori untuk file html dan isi filenya
+```code
+# mkdir -p /web1/html/
+# echo "Welcome to Website 1" > /web1/html/index.html
+```
+
+4. edit isi file config dari httpd_conf
+```code
+# vi /etc/httpd/conf/httpd_conf
+
+# Ubah isi config bagian berikut
+DocumentRoot "/web1/html"
+<Directory "/web1/html">
+```
+
+5. Aktifkan Web Server httpd
+```code
+systemctl start httpd
+```
+
+6. Konfigurasi Hardening Whitelisting Selinux (**Bagian Utama**)
+```code
+# semanage fcontext -a -t httpd_sys_content_t "/web1(/.*)?"
+# restorecon -R /web1
+```
+
+
 ---
