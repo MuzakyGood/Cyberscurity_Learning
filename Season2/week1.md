@@ -1,6 +1,6 @@
 ## Exploit Introduction
 
-<p align="center">
+<p style="align=center">
   <img src="image.png" alt="Logos Exploiter" width="100" height="100">
 </p>
 
