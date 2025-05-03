@@ -163,6 +163,7 @@ firewall-cmd --permanent --add-port=80/tcp
 ```
 
 4. edit isi file config dari httpd_conf
+
 ```code
 # vi /etc/httpd/conf/httpd_conf
 
