@@ -105,7 +105,7 @@ cat flag python code
 ### 2. FANTASY CTF
 
 gunakan webshell dan netcat untuk mengetahui flag.
-```code
+```text
 nc verbal-sleep.picoctf.net 52486
 ```
 <br>
@@ -113,22 +113,22 @@ nc verbal-sleep.picoctf.net 52486
 ### 3. hashcrack
 
 login to game in webshell
-```code
+```text
 nc verbal-sleep.picoctf.net 62644
 ```
 
  - pertama MD5
-```code
+```text
 password123
 ```
 
 - kedua SHA-1
-```code
+```text
 letmein
 ```
 
 - ketiga SHA-256
-```code
+```text
 qwerty098
 ```
 ---
