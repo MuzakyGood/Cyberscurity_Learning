@@ -1,6 +1,6 @@
 ## Exploit Introduction
 
-![Logos Exploiter](image.png=100x100)
+![Logos Exploiter](image.png)
 
 # Apa itu Exploit
 Proses di mana seorang peretas (hacker) memanfaatkan kelemahan atau vulnerability dalam sistem untuk mendapatkan akses, mengendalikan, atau merusak jaringan dan perangkat. Ini adalah bagian dari rantai serangan yang lebih besar, di mana menemukan dan memanfaatkan celah keamanan adalah kunci untuk berhasil menyusup ke sistem target.
